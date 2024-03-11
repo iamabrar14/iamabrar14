@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Flutter**
 
-- 📝 I regularly write articles on [prattohik.com](prattohik.com)
+- Universal Truth: Messi is the greatest footballer ever
 
 - 📫 How to reach me **iamabrar14@gmail.com**
 
