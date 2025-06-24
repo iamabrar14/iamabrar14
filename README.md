@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning **
 
-- Universal Truth: Messi is the greatest footballer ever
+
 
 - 📫 How to reach me **iamabrar14@gmail.com**
 
